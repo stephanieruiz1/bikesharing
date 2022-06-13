@@ -16,4 +16,4 @@ Kate and I took a trip to New York City exploting histotic landmarks like Centra
 ## Summary:
 The highest users are male subcribers and use the same route for work
 
-[link to dashboard]https://public.tableau.com/app/profile/stephanie2676/viz/NYC_challenge/Story1?publish=yes
+[link to dashboard](https://public.tableau.com/app/profile/stephanie2676/viz/NYC_challenge/Story1?publish=yes)
