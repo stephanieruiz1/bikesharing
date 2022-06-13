@@ -14,6 +14,10 @@ Kate and I took a trip to New York City exploting histotic landmarks like Centra
 ![user_weekday](https://github.com/stephanieruiz1/bikesharing/blob/main/images/user_weekday.png)
 
 ## Summary:
-The highest users are male subcribers and use the same route for work
+The highest users are male subcribers and use the same route for work. Weekend useage are spread thorugh the day. Weekday useage are concetrated early in the morning and afternoon. This shows that males usually wants a bike to ride at the same time on week days.
+##### 2 additional visualizations are suggested for future analysis
+1) Make sure Des Moines street infrastructure can handle so many bikes
+2) is it affordable to repair bikes or build bike stations
+
 
 [link to dashboard](https://public.tableau.com/app/profile/stephanie2676/viz/NYC_challenge/Story1?publish=yes)
