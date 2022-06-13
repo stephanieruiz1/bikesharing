@@ -1,8 +1,7 @@
 # bikesharing
 ## Overview of the statistical analysis:
-
-
-## Results:
+Kate and I took a trip to New York City exploting histotic landmarks like Central Park. It was a magical experience. One of the key ingredients to the magic was Citi Bike. Me and Kate had biked everywhere which allowed to get to know the city and interact with people who live there and who are using bikes for their commutes. An idea starts forming to create a businees of bike in Des Moines Iowa. Kate has a potential investor who may be interesting but the mechanics of making this business work might be quite different in Des Moines than in New York. I decide to use data analytics to create a proposal on how it might work in Des Moines. Also, to solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+## Results: 
 #### The trips duration show the majority of trips are under an hour in length.
 ![checkout_users](https://github.com/stephanieruiz1/bikesharing/blob/main/images/checkout_users.png)
 #### Man took longer to checkout the bikes
